@@ -23,4 +23,4 @@ Python 3 and Git are the only tools needed for the offline lab.
 Peer review: checked README clarity.
 
 # Add a section to README.md: ## How we verify releases
-# Add a sentence describing the test command.
+# Add a sentence describing the test command..
